@@ -1,0 +1,11 @@
+for (var i=0;i<5;i++) {
+    for (var j=0;j<2;j++) {
+if(i==1) {
+    break;
+}
+console.log('inner loop,j='+j);
+}
+console.log(i);
+}
+    
+    
