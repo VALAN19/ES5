@@ -1,1 +1,2 @@
-console.log(5);
+let name ='Valan';
+console.log(name);
